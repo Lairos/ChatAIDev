@@ -1,0 +1,6 @@
+# 其他忽略的文件和目錄...
+
+# 環境變量
+.env
+node_modules
+node_modules
